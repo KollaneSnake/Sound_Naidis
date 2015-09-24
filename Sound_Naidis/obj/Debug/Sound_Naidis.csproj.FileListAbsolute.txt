@@ -1,1 +1,15 @@
 D:\Project\Kiir\Sound_Naidis\Sound_Naidis\bin\Debug\Sound_Naidis.exe.config
+D:\Project\Kiir\Sound_Naidis\Sound_Naidis\bin\Debug\Content\322363__mit847__creepy.wav
+D:\Project\Kiir\Sound_Naidis\Sound_Naidis\bin\Debug\Content\322856__visionspace__123454.wav
+D:\Project\Kiir\Sound_Naidis\Sound_Naidis\bin\Debug\Sound_Naidis.exe
+D:\Project\Kiir\Sound_Naidis\Sound_Naidis\bin\Debug\Sound_Naidis.pdb
+D:\Project\Kiir\Sound_Naidis\Sound_Naidis\obj\Debug\Sound_Naidis.csprojResolveAssemblyReference.cache
+D:\Project\Kiir\Sound_Naidis\Sound_Naidis\obj\Debug\Sound_Naidis.Form1.resources
+D:\Project\Kiir\Sound_Naidis\Sound_Naidis\obj\Debug\Sound_Naidis.Properties.Resources.resources
+D:\Project\Kiir\Sound_Naidis\Sound_Naidis\obj\Debug\Sound_Naidis.csproj.GenerateResource.Cache
+D:\Project\Kiir\Sound_Naidis\Sound_Naidis\obj\Debug\Sound_Naidis.exe
+D:\Project\Kiir\Sound_Naidis\Sound_Naidis\obj\Debug\Sound_Naidis.pdb
+D:\Project\Kiir\Sound_Naidis\Sound_Naidis\bin\Debug\Content\322358__gadziller__witch.mp3
+D:\Project\Kiir\Sound_Naidis\Sound_Naidis\obj\Debug\Interop.WMPLib.dll
+D:\Project\Kiir\Sound_Naidis\Sound_Naidis\obj\Debug\Sound_Naidis.csproj.ResolveComReference.cache
+D:\Project\Kiir\Sound_Naidis\Sound_Naidis\bin\Debug\Content\drum.mp3
